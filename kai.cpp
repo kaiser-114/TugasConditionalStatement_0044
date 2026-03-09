@@ -32,3 +32,10 @@ string statusbmi (float bmi)
         
 }
 
+int main() 
+{
+    inputbmi();
+
+  
+}
+ 
