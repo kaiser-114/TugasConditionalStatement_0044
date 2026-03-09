@@ -13,4 +13,10 @@ void inputbmi()
 
 }
 
- 
+ float hitungbmi (float a, float b)
+{
+    return a / (b * b);
+
+}
+   
+   
