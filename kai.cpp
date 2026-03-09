@@ -36,6 +36,12 @@ int main()
 {
     inputbmi();
 
-  
+    float bmi = hitungbmi (berat, tinggi);
+    cout << "\n--- Hasil ---" << endl;
+    cout << "\nNilai BMI : " << bmi << endl;
+   
+    return 0;
+
+
 }
  
